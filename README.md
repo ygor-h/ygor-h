@@ -2,7 +2,8 @@
 
 **`Desenvolvedor Back-end`**
 
-Olá, me chamo Ygor Henrique Lima, sou um desenvolvedor Back-end em formação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e me especilizando na linguagem Java, em busca da minha primeira oportunidade para aplicar meus conhecimentos e crescer como desenvolvedor.
+Olá, me chamo Ygor Henrique Lima. Sou um desenvolvedor Back-end em formação, formado em Análise e Desenvolvimento de Sistemas e atualmente estudante de Sistemas de Informação.
+Tenho foco na linguagem Java e em tecnologias do ecossistema Spring, buscando minha primeira oportunidade para aplicar meus conhecimentos na prática, evoluir tecnicamente e crescer como desenvolvedor.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/ygor-henrique-lima/">
