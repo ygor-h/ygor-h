@@ -2,8 +2,10 @@
 
 **`Desenvolvedor Back-end`**
 
-Olá, me chamo Ygor Henrique Lima. Sou um desenvolvedor Back-end em formação, formado em Análise e Desenvolvimento de Sistemas e atualmente estudante de Sistemas de Informação.
-Tenho foco na linguagem Java e em tecnologias do ecossistema Spring, buscando minha primeira oportunidade para aplicar meus conhecimentos na prática, evoluir tecnicamente e crescer como desenvolvedor.
+- <samp>Estudante de Sistemas de Informação</samp> 🎓
+- <samp>Formado em Análise e Desenvolvimento de Sistemas</samp> 📘
+
+<br>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/ygor-henrique-lima/">
@@ -50,6 +52,22 @@ Tenho foco na linguagem Java e em tecnologias do ecossistema Spring, buscando mi
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="docker"
+    title="Docker" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" 
+/>
+<img 
+    align="left" 
+    alt="postgresql"
+    title="PostgreSQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 <img 
     align="left" 
