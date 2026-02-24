@@ -114,6 +114,6 @@
     alt="GitHub Stats" 
     height="100" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygor-h&layout=compact&theme=prussian&hide_border=true" 
+    src="https://github-readme-stats-eight-nu-11.vercel.app/api/top-langs/?username=ygor-h&layout=compact&theme=algolia&hide_border=true" 
   />
 </p>
